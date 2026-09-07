@@ -1,0 +1,17 @@
+body {
+    font-family: 'segoe ui', sans-serif;
+    background-color: lch(93.61% 99.55 114.92);
+}
+
+h1 {
+    font-size: 32px;
+    font-weight: 700;
+    text-align: center;
+    color: hsl(253, 100%, 50%)
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.6;
+    text-align: justify;
+}

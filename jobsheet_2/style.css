@@ -1,0 +1,23 @@
+body {
+    font-family: 'segoe ui', sans-serif;
+        min-height: 100%;
+        margin: 0;
+    background: linear-gradient(to bottom, lab(51.25% 26.97 -76.56), lch(87.79% 119.45 135.82));
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h3 {;
+    font-size: 32px;
+    font-weight: 700;
+    text-align: center;
+    color: hsl(253, 100%, 50%)
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    line-height: 1.6;
+    text-align: justify;
+}
